@@ -1,6 +1,7 @@
  ```
  tsc --v
  tsc salida.ts
+ tsc salida.ts -w
  ```
 
 ## TypeScript Course
