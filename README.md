@@ -1,3 +1,8 @@
+ ```
+ tsc --v
+ tsc salida.ts
+ ```
+
 ## TypeScript Course
 
 ## Requirements
